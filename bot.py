@@ -9,7 +9,7 @@ import asyncio
 import sqlite3
 from discord import Member
 
-token = "MTExNDM2MzQyNTc4Nzc1MjUwOQ.Gr5GPJ.rFHpLhm0sr70qtCzt8BQN-EqHTTGZWUHQTVz-s"
+token = "MTExNDM2MzQyNTc4Nzc1MjUwOQ.Gm9d4D.z2k9e5Q8Sje_x36wDm7lvkiGZFkd8jGtZPA29c"
 
 client = commands.Bot(command_prefix='!', intents=discord.Intents.all())
 client.remove_command('help')
